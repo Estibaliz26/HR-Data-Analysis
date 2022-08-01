@@ -1,0 +1,101 @@
+﻿Employee Number;Level 2020;Level 2021;Performance 2019;Performance 2020;Performance 2021;Potential 2019;Potential 2020;Potential 2021
+A0027;3;3;Performer;;;5;4;5
+A0005;4;4;Competent;High Performer;High Performer;7;7;4
+A0067;4;4;Performer;High Performer;High Performer;6;9;9
+A0080;4;5;Performer;High Performer;High Performer;6;9;9
+A0034;4;5;Performer;Competent;Competent;5;6;5
+A0035;4;4;Performer;Competent;Competent;5;5;5
+A0031;4;4;Performer;Competent;;4;4;4
+A0038;4;5;Performer;Competent;Competent;4;5;5
+A0016;5;6;Competent;Performer;;6;;4
+A0004;5;6;Competent;High Performer;Competent;8;5;5
+A0009;5;5;Competent;High Performer;Performer;8;7;4
+A0065;5;6;Performer;High Performer;High Performer;8;8;8
+A0058;5;5;Performer;High Performer;High Performer;7;7;7
+A0062;5;7;Performer;High Performer;High Performer;6;9;8
+A0094;5;5;Performer;High Performer;Performer;5;5;5
+A0054;5;5;Performer;High Performer;Competent;4;8;5
+A0033;5;5;Performer;Competent;Competent;5;5;5
+A0046;5;5;Performer;Competent;Performer;5;6;6
+A0040;5;5;Performer;Competent;Competent;4;4;6
+A0052;5;5;Performer;Competent;Under Performer;4;;2
+A0026;5;;Performer;;;8;;4
+A0021;6;7;High Performer;High Performer;High Performer;8;9;9
+A0060;6;6;Performer;High Performer;High Performer;8;8;8
+A0071;6;6;Performer;High Performer;High Performer;8;9;9
+A0014;6;6;Competent;High Performer;Performer;6;9;6
+A0025;6;6;High Performer;High Performer;High Performer;6;6;9
+A0076;6;6;Performer;High Performer;High Performer;6;9;9
+A0083;6;6;Performer;High Performer;High Performer;6;9;9
+A0006;6;6;Competent;High Performer;High Performer;5;5;6
+A0085;6;6;Performer;High Performer;High Performer;4;8;9
+A0090;6;6;Performer;High Performer;Performer;4;4;4
+A0036;6;6;Performer;Competent;Competent;5;5;5
+A0047;6;6;Performer;Competent;Performer;5;5;6
+A0049;6;6;Performer;Competent;Performer;5;5;6
+A0003;6;6;Competent;Competent;Under Performer;4;4;2
+A0037;6;6;Performer;Competent;Competent;4;4;5
+A0039;6;6;Performer;Competent;Competent;4;4;5
+A0030;6;6;Performer;;Performer;;6;5
+A0018;7;7;Competent;Performer;Competent;5;7;4
+A0020;7;8;High Performer;High Performer;High Performer;9;9;9
+A0023;7;7;High Performer;High Performer;High Performer;9;;9
+A0077;7;7;Performer;High Performer;High Performer;9;9;9
+A0019;7;7;High Performer;High Performer;High Performer;8;9;9
+A0022;7;7;High Performer;High Performer;High Performer;8;8;9
+A0024;7;7;High Performer;High Performer;High Performer;8;;9
+A0063;7;7;Performer;High Performer;High Performer;8;7;8
+A0064;7;7;Performer;High Performer;High Performer;8;;8
+A0074;7;8;Performer;High Performer;High Performer;8;8;9
+A0092;7;7;Performer;High Performer;Performer;8;8;4
+A0053;7;7;Performer;High Performer;Competent;7;4;5
+A0001;7;7;;High Performer;Performer;6;6;9
+A0010;7;8;Competent;High Performer;Performer;6;6;5
+A0012;7;7;Competent;High Performer;Performer;6;;5
+A0066;7;8;Performer;High Performer;High Performer;6;8;8
+A0075;7;7;Performer;High Performer;High Performer;6;9;9
+A0082;7;7;Performer;High Performer;High Performer;6;8;9
+A0013;7;7;Competent;High Performer;Performer;5;5;5
+A0056;7;7;Performer;High Performer;High Performer;5;5;7
+A0059;7;7;Performer;High Performer;High Performer;5;7;7
+A0061;7;7;Performer;High Performer;High Performer;5;8;8
+A0091;7;8;Performer;High Performer;Performer;5;5;4
+A0100;7;7;Performer;High Performer;Performer;5;5;5
+A0089;7;7;Performer;High Performer;Performer;4;;4
+A0079;7;7;Performer;High Performer;High Performer;;6;9
+A0044;7;7;Performer;Competent;Performer;5;5;4
+A0050;7;7;Performer;Competent;Performer;5;5;6
+A0042;7;7;Performer;Competent;Performer;4;4;4
+A0043;7;7;Performer;Competent;Performer;4;4;4
+A0045;7;7;Performer;Competent;Performer;4;4;4
+A0017;8;8;Competent;Performer;Competent;4;4;4
+A0068;8;8;Performer;High Performer;High Performer;9;9;9
+A0069;8;;Performer;High Performer;High Performer;9;9;9
+A0057;8;8;Performer;High Performer;High Performer;8;7;7
+A0055;8;9;Performer;High Performer;High Performer;7;7;7
+A0081;8;9;Performer;High Performer;High Performer;7;8;9
+A0099;8;8;Performer;High Performer;Performer;7;7;5
+A0078;8;8;Performer;High Performer;High Performer;5;8;9
+A0095;8;;Performer;High Performer;Performer;5;;5
+A0008;8;8;Competent;High Performer;Performer;4;5;4
+A0051;8;8;Performer;Competent;Performer;5;6;6
+A0028;8;8;Performer;;Competent;;4;5
+A0086;9;9;Performer;High Performer;High Performer;9;;9
+A0096;9;9;Performer;High Performer;Performer;4;5;5
+A0048;9;9;Performer;Competent;Performer;6;;6
+A0041;9;9;Performer;Competent;Performer;4;4;4
+A0084;10;10;Performer;High Performer;High Performer;9;9;9
+A0011;10;10;Competent;High Performer;Performer;7;8;5
+A0073;10;11;Performer;High Performer;High Performer;7;8;9
+A0098;10;10;Performer;High Performer;Performer;5;5;5
+A0029;10;10;Performer;;High Performer;4;7;7
+A0070;11;11;Performer;High Performer;High Performer;9;9;9
+A0093;11;12;Performer;High Performer;Performer;9;8;4
+A0087;11;12;Performer;High Performer;High Performer;5;8;9
+A0088;12;12;Performer;High Performer;High Performer;8;9;9
+A0002;;5;;Performer;;6;5;4
+A0072;;;Performer;High Performer;High Performer;9;9;9
+A0015;;5;Competent;High Performer;Performer;6;6;6
+A0097;;6;Performer;High Performer;Performer;5;8;5
+A0007;;;Competent;High Performer;Performer;4;4;4
+A0032;;8;Performer;Competent;;5;;5
